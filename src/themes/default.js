@@ -1,16 +1,16 @@
 export default {
   // Temp fonts
   fonts: {
-    title: "Space Grotesk, sans-serif",
-    main: "Space Grotesk, sans-serif"
+    title: "Georgia, sans-serif",
+    main: "Georgia, sans-serif"
   },
   // Colors for layout
   colors: {
-    primary1: "hsl(204,23.8%,95.9%)",
-    background1: "#0F1624",
-    accent1: "hsl(34.9,98.6%,72.9%)",
-    button: "hsl(205.1,100%,36.1%)",
-    background2: "hsl(232.7,27.3%,23.7%)",
+    primary1: "#fff",
+    background1: "#4A122E",
+    accent1: "C6A1B4",
+    button: "C6A1B4",
+    background2: "#741B47",
   },
   // Breakpoints for responsive design
   breakpoints: {
@@ -20,3 +20,9 @@ export default {
     xl: 'screen and (max-width: 1280px)'
   },
 }
+
+//extra colors:
+//dark green: 305252
+//beige: d6ba73
+//light pink: fce1f7
+//yellow linear-gradient: 'linear-gradient(270deg, #d6ba73 0%, #584C2F 100%)'
